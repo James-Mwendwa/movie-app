@@ -9,7 +9,7 @@ function Header() {
       </Link>
 
       <div className="headerLinks">
-        <Link to="/"></Link>
+        <Link to="/">Home</Link>
         <Link to="/genre">Genre</Link>
         <Link to="/country">Country</Link>
         <Link to="/movies">Movies</Link>
